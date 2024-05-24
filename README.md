@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mehmood</h1>
 <h3 align="center">A passionate Full Stack Web Developer with a knack for crafting seamless user experiences. My coding journey started with HTML, CSS, and JavaScript, and since then, I've been on an exciting adventure building and designing web applications that blend functionality and aesthetics.</h3>
 
-<img align="right" width="400" alt="Coding Image" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)">
+<img align="right" width="400" alt="Coding Image" src="https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
 
 
